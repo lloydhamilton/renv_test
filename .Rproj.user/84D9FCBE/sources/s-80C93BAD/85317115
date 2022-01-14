@@ -1,0 +1,26 @@
+{
+    "id": "85317115",
+    "path": "~/Documents/GitHub.nosync/renv_test/app/app.R",
+    "project_path": "app/app.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1642166247494.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "9,15",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1642166255,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1642166255894,
+    "read_only": false,
+    "read_only_alternatives": []
+}
